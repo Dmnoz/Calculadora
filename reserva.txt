@@ -1,0 +1,16 @@
+if (o=="+") {
+        operador = "+";
+        contador_1="";
+    }
+    if (o=="-") {
+        operador = "-";
+        contador_1="";
+    }
+    if (o=="*") {
+        operador = "*";
+        contador_1="";
+    }
+    if (o=="/") {
+        operador = "/";
+        contador_1="";
+    }
